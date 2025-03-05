@@ -1,9 +1,9 @@
 // Copyright (c) 2020 Mr. Coxall All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Catherine Vu
+// Created on: March 5 2025
 // This file contains the JS functions for index.html
 
 function myButtonClicked () {
-  alert('Hello, World!')
+document.getElementById("answer").innerHTML = "Hello, World!"
 }
